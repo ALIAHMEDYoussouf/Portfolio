@@ -83,25 +83,25 @@ const hobbiesSkillsComponent = {
       </div>
 
       <div class="hobbies">
-        <h2 class="title">Hobbies</h2>
+        <h2 class="title">LOISIRS</h2>
 
         <div class="hobbies-container">
           <div class="hobbies-container__hobbie-item">
             <img src="IMG/pexels-ibadah-mimpi-3224344.jpg" alt="" class="hobbie-img">
-            <h4 class="hobbie-name">read</h4>
-            <p class="hobbie-description">Hoobbie description</p>
+            <h4 class="hobbie-name">Lecture</h4>
+            <p class="hobbie-description">Description de loisir</p>
           </div>
 
           <div class="hobbies-container__hobbie-item">
             <img src="IMG/football.jpg" alt="" class="hobbie-img">
-            <h4 class="hobbie-name">Soccer</h4>
-            <p class="hobbie-description">Hoobbie description</p>
+            <h4 class="hobbie-name">Football</h4>
+            <p class="hobbie-description">Description de loisir</p>
           </div>
 
           <div class="hobbies-container__hobbie-item">
             <img src="IMG/badmiton.jpg" alt="" class="hobbie-img">
             <h4 class="hobbie-name">Badmiton</h4>
-            <p class="hobbie-description">Hoobbie description</p>
+            <p class="hobbie-description">Description de loisir</p>
           </div>
 
         </div>
@@ -128,37 +128,37 @@ const mainContainerComponent = {
 
       <div class="main-container__experiences">
       <table >
-        <h1>Experiences professionnel</h1>
+        <h3>EXPÉRIENCES PROFESSIONNELLE</h3>
 
         <div class="experiences__experience">
           <div class="experience__description">
             <h3 class="header-3">2021 - 2022</h3>
-            <h2 class="header-2">Stage - Developer web et mobile</h2>
-            <h2 class="header-2">UNIGEST SOLUTIONS</h2>
-            <h1 class="header-3">
-                    - Gestion des Equipement grace a logiciel GMAO</h1>
-            <h1 class="header-3">- Synchoniser évenement dans google Agenda grace à API Google</h1>
+            <h2 class="header-2">Stage - Développeur web </h2>
+            <h4 class="header-3">UNIGEST SOLUTIONS</h4>
+            <h5 class="header-3">
+                    - Gestion des Equipement grace a logiciel GMAO</h5>
+            <h5 class="header-3">- Synchoniser évenement dans google Agenda grace à API Google</h5>
           </div>
         </div>
 
         <div class="btn-tags">
-        <h1>Formation Scolaire</h1><br>
+        <h3>FORMATION SCOLAIRE</h3><br>
           <div class="experience__description">
            <h3 class="header-3">2022 - 2024</h3>  
             <h2 class="header-2">Master Informatique - Donnée et Systeme Connecté</h2>
-            <h2 class="header-2"> Université de Jean Monnet, Saint Etienne</h2>
+            <h4 class="header-3"> Université de Jean Monnet, Saint Etienne</h4>
            
             <h3 class="header-3"> 2021 - 2022  </h3>
             <h2 class="header-2">Licence 3 Informatique </h2>
-            <h2 class="header-2"> Université de Corse, Corte</h2>
+            <h4 class="header-3"> Université de Corse, Corte</h4>
             <h3 class="header-3"> 2017 - 2020  </h3>
             <h2 class="header-2">Licence 3 Informatique </h2>
           
-            <h1 class="header-2">   Université de Djibouti</h2>
+            <h4 class="header-3">   Université de Djibouti</h4>
            
               <h3 class="header-3"> 2016 - 2017  </h3>
             <h2 class="header-2">Bac Scientique </h2>
-            <h2 class="header-2">   Lycée de Hodan4 </h2>
+            <h4 class="header-3">  Lycée de Hodan4 </h4>
             
           </div>
         </div>

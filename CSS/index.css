@@ -169,7 +169,7 @@ html {
         margin: 2rem 0; }
       .profile-container .main-container .main-container__experiences h3 {
         color: rgb(158, 33, 33);
-        font-size: 1rem; }
+        font-size: 1.2rem; }
         .profile-container .main-container .main-container__experiences h2 {
           color: rgb(158, 33, 33);
           font-size: 2rem; }
@@ -179,7 +179,7 @@ html {
         margin: 0.5rem 0; 
       }
      .header-3 {
-        font-size: 1.3rem;
+        font-size: 1.0rem;
         color: rgb(72, 71, 71);
         margin: 0.5rem 0; 
       }
@@ -188,7 +188,7 @@ html {
         color: #222;
         margin-bottom: 1.5rem; }
       .profile-container .main-container .main-container__experiences .paragraph {
-        margin-top: 2.0rem;
+        margin-top: 1.6rem;
         margin-bottom: 1.5rem;
         color: #333; }
   .profile-container .projects-section-controller {
