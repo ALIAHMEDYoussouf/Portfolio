@@ -24,7 +24,6 @@
 
 ## Overview
 
-![screenshot1](imgs)
 
 - Where can I see your demo?<br>
   [Here](https://aliahmedyoussouf.github.io/Portfolio/)
