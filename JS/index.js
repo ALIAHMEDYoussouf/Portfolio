@@ -39,7 +39,7 @@ const headerComponent = {
         <h1 align="center">Bonjour👋 
         Bienvenue sur mon portfolio☕</h1>
         <div class="header-container_profile-description__bottom">
-          <p>Etudiant en Master Informatique, je suis à la recherche d'un stage de 3 à 5 mois à partir d'avril 2023 | #Développeur Full Stack ou #Développeur java.
+          <p>Etudiant en Master Informatique, je suis à la recherche d'un stage de 3 à 5 mois à partir d'avril 2023 en développeur Full Stack ou développeur java.
         
         </div>
       </div>
