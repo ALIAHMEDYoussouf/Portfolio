@@ -152,7 +152,7 @@ const mainContainerComponent = {
             <h2 class="header-2">Licence 3 Informatique </h2>
             <h4 class="header-3"> Université de Corse, Corte</h4>
             <h3 class="header-3"> 2017 - 2020  </h3>
-            <h2 class="header-2">Licence 3 Informatique </h2>
+            <h2 class="header-2">Licence Informatique </h2>
           
             <h4 class="header-3">   Université de Djibouti</h4>
            
