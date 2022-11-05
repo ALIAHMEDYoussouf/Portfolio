@@ -174,15 +174,15 @@ const projectControllerComponent = {
       <h2>Projects Scolaire</h2>
       <div class="project-section-controller__tags-container">
         <button class="btn-tags" :class="{active: tagsToSearch['#Front-end']}" @click="filterSearch('#Front-end')">Front-end</button>
-        <button class="btn-tags" :class="{active: tagsToSearch['#Full-Stack']}" @click="filterSearch('#Full-Stack')">Full-Stack</button>
+        <button class="btn-tags" :class="{active: tagsToSearch['#Full-Stack']}" @click="filterSearch('#Full-Stack')">Full-Stack</button><br>
         <button class="btn-tags" :class="{active: tagsToSearch['#Logiciel']}" @click="filterSearch('#Logiciel')">Logiciel</button>
-        <button class="btn-tags" :class="{active: tagsToSearch['#Game']}" @click="filterSearch('#Game')">Game</button>
+        <button class="btn-tags" :class="{active: tagsToSearch['#More']}" @click="filterSearch('#Game')">Game</button>
       </div>
     </section>
     `,
     data() {
         return {
-            tagsToSearch: { '#Front-end': true, '#Full-Stack': true, '#Game': true, '#Logiciel': true }
+            tagsToSearch: { '#Front-end': true, '#Full-Stack': true, '#Logiciel': true }
         }
     },
     methods: {
@@ -222,7 +222,7 @@ const projectsShowUpConteinerComponent = {
     `,
     data() {
         return {
-            tags: { '#Front-end': true, '#Full-Stack': true, '#Game': true, '#Logiciel': true }
+            tags: { '#Front-end': true, '#Full-Stack': true, '#Logiciel': true }
         }
     }
     ,
@@ -269,14 +269,14 @@ const app = new Vue({
                 description: '- Appplication Météo.',
                 valid: true
             },
-            {
-                img: 'IMG/monopoly.jpg',
-                name: 'Jeu de Monopoly',
-                tags: ['#Game'],
-                //le code nest pas disponible sur git hub
-                description: '- UML Modélisation visuel et implementation en Java',
-                valid: true
-            },
+            // {
+            //     img: 'IMG/monopoly.jpg',
+            //     name: 'Jeu de Monopoly',
+            //     tags: ['#Game'],
+            //     //le code nest pas disponible sur git hub
+            //     description: '- UML Modélisation visuel et implementation en Java',
+            //     valid: true
+            // },
             {
               img: 'IMG/airbnb.jpg',
               name: 'Air&bnb en Spring Boot',
